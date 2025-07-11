@@ -1,0 +1,15 @@
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\bin\Debug\net8.0\CarRentalWithInterface.exe
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\bin\Debug\net8.0\CarRentalWithInterface.deps.json
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\bin\Debug\net8.0\CarRentalWithInterface.runtimeconfig.json
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\bin\Debug\net8.0\CarRentalWithInterface.dll
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\bin\Debug\net8.0\CarRentalWithInterface.pdb
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.AssemblyInfoInputs.cache
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.AssemblyInfo.cs
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.sourcelink.json
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.dll
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\refint\CarRentalWithInterface.dll
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.pdb
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\CarRentalWithInterface.genruntimeconfig.cache
+C:\Users\victor.galvao\Desktop\CsharpStudies\CarRentalWithInterface\CarRentalWithInterface\obj\Debug\net8.0\ref\CarRentalWithInterface.dll
